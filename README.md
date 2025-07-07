@@ -2,7 +2,7 @@
 
 I'm a CS student at Columbia, interested in data pipelines, full-stack development, and product management.
 
-- 🌱 Currently building [bookmark-x](https://bookmark-x.info)
+- 🌱 Currently building [bookmark-x.info](https://bookmark-x.info)
 - 📫 How to reach me: [rl3431@columbia.edu](mailto:rl3431@columbia.edu)
 
 Thanks for visiting!

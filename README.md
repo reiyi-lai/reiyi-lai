@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rachel! I'm a CS student at Columbia, interested in product management, AI automation, and full-stack development.
+I'm Rachel! I'm a CS student at Columbia, interested in data pipelines, full-stack development, and product management.
 
 - 🌱 Currently building [bookmark-x](https://bookmark-x.info)
 - 📫 How to reach me: [rl3431@columbia.edu](mailto:rl3431@columbia.edu)

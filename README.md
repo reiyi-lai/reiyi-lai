@@ -3,7 +3,7 @@ Hi, I'm Rachel! I'm a CS student at Columbia, interested in data pipelines, full
 - 🌱 Currently building [bookmark-x.info](https://bookmark-x.info)
 - 📫 How to reach me: [rl3431@columbia.edu](mailto:rl3431@columbia.edu)
 
-Thanks for visiting!
+Thank you for visiting!
 
 <!--
 **reiyi-lai/reiyi-lai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

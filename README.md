@@ -1,4 +1,4 @@
-Hi, I'm Rachel! I'm a CS student at Columbia, interested in data pipelines, GTM automations, and full-stack development.
+Hi, I'm Rachel! I'm a CS student at Columbia, interested in data pipelines, GTM automations, full-stack development.
 
 - 📫 How to reach me: [rl3431@columbia.edu](mailto:rl3431@columbia.edu)
 
